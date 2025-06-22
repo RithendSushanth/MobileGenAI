@@ -1,0 +1,6 @@
+3000 -> next frontend
+9090 → code-server (container:8080), 
+9091 → LLM worker API, 
+8000 → primary backend, 
+9092 → container:8081 (custom use), 
+8081 → Jenkins (already in use)
