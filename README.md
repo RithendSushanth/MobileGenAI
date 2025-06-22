@@ -1,5 +1,5 @@
 ```md
-# ⚡ Bolty – AI-powered Dev Workflow Automation
+#  AI-powered Dev Workflow Automation
 
 Bolty is a local-first, AI-driven development environment that transforms natural language prompts into complete working codebases, executes shell commands, and updates files in real time. Built using Bun, Gemini 2.5 Flash, and Prisma.
 
