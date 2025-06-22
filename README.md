@@ -11,8 +11,8 @@ Its a local-first, AI-driven development environment that transforms natural lan
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/bolty.git
-cd bolty/bolt-mobile
+git clone https://github.com/RithendSushanth/MobileGenAI.git
+cd bolt-mobile
 ````
 
 ### 2. Install dependencies
